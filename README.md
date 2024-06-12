@@ -2,7 +2,6 @@
 - 👀 I’m interested in making my own games from scratch
 - 🌱 I’m currently learning game development using Blueprints and C#
 - 💞️ I’m looking to collaborate on game projects that need help with Animation 
-- 📫 nscsflagman2013@gmail.com
 - Callout Developer for LSPDFR 0.4.9 (GTA V)
 
 <!---
